@@ -4,7 +4,13 @@ body{
     color: aliceblue;
     font-size: 20px;
 }
+p{
+    margin-left: 40%
+}
 img{
+    height: 400px;
+    width: 500px;
+    margin-left: 20%;
     border-radius: 10%;
 }
 .btn{
