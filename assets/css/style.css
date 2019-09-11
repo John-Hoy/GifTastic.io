@@ -2,12 +2,18 @@ body{
     background-image: url("../images/6998fd867b0eaed370b95607cb8be8a6.jpg");
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: aliceblue;
+    font-size: 20px;
 }
 img{
     border-radius: 10%;
 }
 .btn{
+    float: right;
     border-radius: 50%;
     background-color: aliceblue;
-    padding: 5%;
+    margin-left: 2%;
+}
+#addCharacter{
+    float: right;
+    border-radius: 20%;
 }
