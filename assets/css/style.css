@@ -1,0 +1,13 @@
+body{
+    background-image: url("../images/6998fd867b0eaed370b95607cb8be8a6.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+img{
+    border-radius: 10%;
+}
+.btn{
+    border-radius: 50%;
+    background-color: aliceblue;
+    padding: 5%;
+}
