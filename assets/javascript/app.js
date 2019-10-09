@@ -2,7 +2,7 @@
 $(document).ready(function () {
 
     // initial choices for gifs
-    const topics = ["JoJo", "My Hero Academia", "Dr Stone", "Naruto", "Demon Slayer", "Samurai Champloo", "Cowboy Bebop"]
+    const topics = ["JoJo", "My Hero Academia", "Dr Stone", "Naruto", "Demon Slayer", "Samurai Champloo", "Cowboy Bebop","Fooly Cooly", "Pokemon", "I'm a spider now, so what?", "Black Clover", "Naruto", "Radiant", "Sword Art Online"]
 
     // ajax function to get stuff
     function displayInfo() {
